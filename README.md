@@ -3,7 +3,7 @@
  </a> 
 
 ### Hi there 👋
-My name is Sudhanshu Malla. I interest is in Machine Learning and technology. I am currenlty studying Sofware Engineering for Business. 
+My name is Sudhanshu Malla. My interest is in Machine Learning and technology. I am graduating soon with 1st class honours in Sofware Engineering for Business. 
 <!--
 **s2-malla/s2-malla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
